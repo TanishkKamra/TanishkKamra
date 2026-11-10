@@ -1,3 +1,4 @@
+<!-- (c) 2026 Tanishk Kamra | All rights reserved | github.com/TanishkKamra/TanishkKamra | tkp-8e11120a2f-155e23󠁻󠁴󠁫󠁰󠀭󠀸󠁥󠀱󠀱󠀱󠀲󠀰󠁡󠀲󠁦󠀭󠀱󠀵󠀵󠁥󠀲󠀳󠁽 -->
 # Hi, I'm Tanishk Kamra
 
 **Full-Stack Software Engineer** · Python · TypeScript · JavaScript · Delhi, India
