@@ -21,4 +21,4 @@ I build complete products end to end: backends, desktop and web frontends, and t
 **Frontend & desktop:** React, Electron, PySide6, Web Audio API  
 **Automation:** Make.com, n8n, Zapier, GoHighLevel, Slack and ClickUp APIs
 
-📫 tanishkkamra8451@gmail.com
+📫 Contact or request my résumé: [tanishk.is-a.dev](https://tanishk.is-a.dev/#chain)
